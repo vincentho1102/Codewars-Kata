@@ -1,4 +1,5 @@
-<!-- Friday, 29 Jan 2021  -->
+// Friday, 29 Jan 2021
+
 1. 8 Kyu (https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
    Even or Odd
 
