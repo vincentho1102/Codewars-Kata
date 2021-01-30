@@ -23,3 +23,18 @@
 
 8. 5 Kyu (https://www.codewars.com/kata/52597aa56021e91c93000cb0)
    Moving Zeros To The End
+
+
+// Saturday, 30 Jan 2021
+
+1. 8 Kyu (https://www.codewars.com/kata/596c6eb85b0f515834000049)
+   FIXME: Replace all dots
+
+2. 7 Kyu (https://www.codewars.com/kata/57d2807295497e652b000139)
+   Averages of numbers
+
+3. 6 Kyu (https://www.codewars.com/kata/5ce399e0047a45001c853c2b)
+   Sums of Parts
+
+4. 5 Kyu (https://www.codewars.com/kata/52685f7382004e774f0001f7)
+   Human Readable Time
