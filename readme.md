@@ -38,3 +38,66 @@
 
 4. 5 Kyu (https://www.codewars.com/kata/52685f7382004e774f0001f7)
    Human Readable Time
+
+
+// Monday, 01 Feb 2021
+
+1. 8 Kyu (https://www.codewars.com/kata/5715eaedb436cf5606000381)
+   Sum of Positive
+
+2. 8 Kyu (https://www.codewars.com/kata/56dec885c54a926dcd001095)
+   Opposite Number
+
+3. 8 Kyu (https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+   Remove First and Last Character
+
+4. 8 Kyu (https://www.codewars.com/kata/55685cd7ad70877c23000102)
+   Return Negative
+
+5. 8 Kyu (https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+   String Repeat
+
+6. 7 Kyu (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+   Mumbling
+
+7. 7 Kyu (https://www.codewars.com/kata/554b4ac871d6813a03000035)
+   Highest and Lowest
+
+8. 7 Kyu (https://www.codewars.com/kata/546e2562b03326a88e000020)
+   Square Every Digit
+
+9. 7 Kyu (https://www.codewars.com/kata/56747fd5cb988479af000028)
+   Get the Middle Character
+
+10. 7 Kyu (https://www.codewars.com/kata/52fba66badcd10859f00097e)
+    Disemvowel Trolls
+
+11. 6 Kyu (https://www.codewars.com/kata/541c8630095125aba6000c00)
+    Sum of Digits / Digital Root
+
+12. 6 Kyu (https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+    Persistent Bugger
+
+13. 6 Kyu (https://www.codewars.com/kata/5264d2b162488dc400000001)
+    Stop gninnipS My sdroW!
+
+14. 6 Kyu (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+    Who Likes it ?
+
+15. 6 Kyu (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+    Counting Duplicates
+
+16. 5 Kyu (https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+    Maximum Subarray Sum
+
+17. 5 Kyu (https://www.codewars.com/kata/55c6126177c9441a570000cc)
+    Weight for Weight
+
+18. 5 Kyu (https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+    Where my Anagrams at ?
+
+19. 5 Kyu (https://www.codewars.com/kata/530e15517bc88ac656000716)
+    Rot13
+
+20. 5 Kyu (https://www.codewars.com/kata/550f22f4d758534c1100025a)
+    Direction Reduction
