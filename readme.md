@@ -101,3 +101,9 @@
 
 20. 5 Kyu (https://www.codewars.com/kata/550f22f4d758534c1100025a)
     Direction Reduction
+
+
+// Tuesday, 02 Feb 2021
+
+1. 4 Kyu (https://www.codewars.com/kata/52742f58faf5485cae000b9a)
+   Human Readable Duration Format
